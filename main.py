@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 from spotipy.oauth2 import SpotifyOAuth, SpotifyClientCredentials
 import datetime
 
-SPOTIFY_CLIENT_ID = "80d992fa934f40378787b3061de371cc"
-SPOTIFY_SECRET = "baa502202964486ebcd0d9f824ee2f00"
+SPOTIFY_CLIENT_ID = "xxxxxxxx"
+SPOTIFY_SECRET = "xxxxxxx"
 SPOTIFY_REDIRECT_URI = "http://localhost:3000"
 
 ##### STEP 1, GETTING ALL THE SONG TITLES #####
